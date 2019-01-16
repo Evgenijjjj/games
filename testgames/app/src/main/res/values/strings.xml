@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test-games</string>
+    <string name="game1Path">file:///android_asset/game1/index.html</string>
+    <string name="game2Path">file:///android_asset/game2/index.html</string>
+    <string name="main">Main</string>
+    <string name="game1">Game 1</string>
+    <string name="game2">Game 2</string>
+    <string name="greeting">Welcome Dear Player !</string>
+</resources>
